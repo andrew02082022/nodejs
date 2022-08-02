@@ -6,7 +6,6 @@ const fsPromises = require('fs').promises;
 
 const logEvents = require('./logEvents');
 const EventEmitter = require('events');
-const {raw} = require("http2");
 
 class MyEmitter extends EventEmitter {
 }
