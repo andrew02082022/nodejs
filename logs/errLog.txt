@@ -1,0 +1,52 @@
+20220802	09:00:58	5fdbb680-67af-4998-8e79-b6675e335c30	Error	EISDIR: illegal operation on a directory, read
+
+20220802	09:02:15	3246a8bd-ebea-4423-be13-a7dea451a99b	Error	EISDIR: illegal operation on a directory, read
+
+20220802	09:02:20	84b80ce7-d7a0-4c44-87ee-e2f6d36ba0b4	Error	EISDIR: illegal operation on a directory, read
+
+20220802	09:02:34	f4607a50-d37d-426c-8435-5fe55dd6658b	Error	EISDIR: illegal operation on a directory, read
+
+20220802	09:03:27	115bec8e-c6e3-4693-9575-790a4dfa693d	Error	ENOENT: no such file or directory, open 'C:\Users\ASafronov\node_js_start\view\404.html'
+
+20220802	09:03:44	91aad2a9-cca2-409b-b9f6-ec6c96552906	RangeError	Invalid status code: true
+
+20220802	09:03:53	008db25a-e743-49d4-b8b1-4f70ad354033	RangeError	Invalid status code: true
+
+20220802	09:04:46	8b06cecb-1927-47a2-9b70-326a3cdf8fad	RangeError	Invalid status code: true
+
+20220802	09:05:20	4da9e728-aed8-4566-9f0d-01a33738f92b	RangeError	Invalid status code: true
+
+20220802	09:05:38	8188d3d3-4288-4e27-b922-01f280c31d27	RangeError	Invalid status code: true
+
+20220802	09:06:24	61c83538-ef12-4ede-a8af-2512695c4c4a	RangeError	Invalid status code: false
+
+20220802	09:06:24	77207ea3-f23d-4854-9c05-8d6a5d0cb23a	RangeError	Invalid status code: false
+
+20220802	09:06:35	b5fe7fd1-d8bd-4c20-bd29-8762dff85fa1	RangeError	Invalid status code: false
+
+20220802	09:06:48	0557f858-bd89-4a58-a707-fbf048e87774	RangeError	Invalid status code: false
+
+20220802	09:07:39	86827797-b329-479c-86ef-5b21d9a0f86d	RangeError	Invalid status code: false
+
+20220802	09:07:54	a8e381ca-5d8f-4855-b0d2-aa94467b9faf	RangeError	Invalid status code: false
+
+20220802	09:07:54	fc1c2387-f474-490c-b742-9ad259620840	RangeError	Invalid status code: false
+
+20220802	09:08:04	060dbd39-a74a-454c-8e29-4c7343ee3843	RangeError	Invalid status code: false
+
+20220802	09:18:28	333912eb-c1ef-432b-9c43-71c44fbb9501	Error	ENOENT: no such file or directory, open 'C:\Users\ASafronov\node_js_start\vievs\404.html'
+
+20220802	09:18:29	eaff0453-8b1f-4347-b706-e11bc105e549	Error	ENOENT: no such file or directory, open 'C:\Users\ASafronov\node_js_start\vievs\404.html'
+
+20220802	09:36:46	785cd923-9c04-4496-b6ca-145e437d45cf	SyntaxError	Unexpected token v in JSON at position 14
+
+20220802	09:39:48	8e8699a9-4583-4809-a3fb-ab4dee7ff161	TypeError	The "chunk" argument must be of type string or an instance of Buffer. Received an instance of Array
+
+20220802	09:39:48	ece3668b-32ce-4892-9448-68e043151f03	TypeError	The "chunk" argument must be of type string or an instance of Buffer. Received an instance of Array
+
+20220802	09:39:50	c852e722-7d5f-4f0f-ac72-d95cf0bc6195	TypeError	The "chunk" argument must be of type string or an instance of Buffer. Received an instance of Array
+
+20220802	09:39:51	06fec95f-7cb2-4fdc-9eeb-fb0febefffb4	TypeError	The "chunk" argument must be of type string or an instance of Buffer. Received an instance of Array
+
+20220802	09:39:52	363d5852-248f-4129-b6de-556970f2a56f	TypeError	The "chunk" argument must be of type string or an instance of Buffer. Received an instance of Array
+
