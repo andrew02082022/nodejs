@@ -1,4 +1,1 @@
-[{
-  "name": "value",
-  "name2": "value2"
-}]
+Just some random text.
