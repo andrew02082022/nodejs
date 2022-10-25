@@ -1,8 +1,2 @@
-/node_modules/
-/.idea/.gitignore
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/nodejs.iml
-/.idea/runConfigurations.xml
-/.idea/vcs.xml
-/logs/
+node_modules
+.env
